@@ -19,5 +19,14 @@ export default defineNuxtConfig({
   alias: { '#w3fs': resolve('./') },
   components: [
     { path: '#w3fs/fs-components', prefix: 'FS', pathPrefix: false }
-  ]
+  ],
+  supabase: {
+    redirectOptions: {
+      login: '/login',
+      callback: '/confirm',
+      include: undefined,
+      exclude: ['/'],
+      cookieRedirect: false,
+    }
+  }
 })
