@@ -67,12 +67,6 @@ Here are some projects using Web3 Full Stack Layer:
 - [RWA-Wallet](https://RWA-Wallet.com)
 - [AO Arena DAO](https://github.com/HelloRWA/Web3-FullStack-Starter)
 
-## Devtools
-
-When using the [Nuxt Devtools](https://devtools.nuxt.com), you can see the list of components injected by Nuxt UI Pro in the "Components' tab:
-
-![nuxt-ui-pro-devtools](https://github.com/nuxt/ui-pro/assets/904724/4ec2862e-91a0-4ae1-9458-264983d39b6e)
-
 <!-- Badges -->
 [npm-version-src]: https://img.shields.io/npm/v/@web3-fullstack/layer/latest.svg?style=flat&colorA=020420&colorB=00DC82
 [npm-version-href]: https://npmjs.com/package/@web3-fullstack
