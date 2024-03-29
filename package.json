@@ -1,5 +1,5 @@
 {
-  "name": "fullstack-layer",
+  "name": "@web3-fullstack/layer",
   "type": "module",
   "version": "0.0.1",
   "main": "./nuxt.config.ts",
