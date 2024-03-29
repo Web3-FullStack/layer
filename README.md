@@ -69,7 +69,7 @@ Here are some projects using Web3 Full Stack Layer:
 
 <!-- Badges -->
 [npm-version-src]: https://img.shields.io/npm/v/@web3-fullstack/layer/latest.svg?style=flat&colorA=020420&colorB=00DC82
-[npm-version-href]: https://npmjs.com/package/@web3-fullstack
+[npm-version-href]: https://npmjs.com/package/@web3-fullstack/layer
 
 [npm-downloads-src]: https://img.shields.io/npm/dm/@web3-fullstack/layer.svg?style=flat&colorA=020420&colorB=00DC82
 [npm-downloads-href]: https://npmjs.com/package/@web3-fullstack/layer
