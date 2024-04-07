@@ -1,8 +1,12 @@
 {
   "name": "@web3-fullstack/layer",
   "type": "module",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "main": "./nuxt.config.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Web3-FullStack/layer"
+  },
   "scripts": {
     "dev": "nuxi dev .playground",
     "build": "nuxt build .playground",
