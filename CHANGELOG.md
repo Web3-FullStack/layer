@@ -1,5 +1,7 @@
 # Changelog
 
+## [0.0.15](https://github.com/Web3-FullStack/layer/compare/v0.0.14...v0.0.15) (2024-10-14)
+
 ## [0.0.14](https://github.com/Web3-FullStack/layer/compare/v0.0.13...v0.0.14) (2024-10-13)
 
 ## [0.0.13](https://github.com/Web3-FullStack/layer/compare/v0.0.12...v0.0.13) (2024-07-30)
