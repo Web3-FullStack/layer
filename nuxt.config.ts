@@ -21,6 +21,7 @@ export default defineNuxtConfig({
     'nuxt-lodash',
     '@nuxtjs/supabase',
     'nuxt-gtag',
+    'nuxt-countdown',
     '@pinia/nuxt'
   ],
   supabase: {
